@@ -7,6 +7,6 @@ This repository contains projects for the Neural Networks Course 2022-23.
 
 Members:
 
-  - Alexandros Papanastasiou el17647
-  - Aris Mavrotas            el18640
-  - Giorgos Savvalas
+    - Alexandros Papanastasiou el17647
+    - Aris Mavrotas            el18640
+    - Giorgos Savvalas         el17130
