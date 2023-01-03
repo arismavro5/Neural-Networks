@@ -16,3 +16,9 @@ This repository contains projects for the Neural Networks Course 2022-23.
 
 
  We use the method of **supervised learning**. We are given two datasets (UCI - Kaggle) and are asked to analyse them using certain classifiers and eventually optimize them.
+
+
+## Lab 2
+
+
+**Unsupervised learning** on Carnegie Mellon Movie Summary Corpus dataset - Movie suggestions 
